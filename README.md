@@ -40,12 +40,13 @@ public class Anshu {
 
     String[] skills = {
         "Java",
-        "Data Structures",
-        "Algorithms",
-        "Problem Solving"
+        "Python",
+        "Data Structures & Algorithms",
+        "Problem Solving",
+        "AI & Machine Learning"
     };
 
-    String currentlyLearning = "Advanced DSA";
+    String currentlyLearning = "Advanced DSA and AI/ML";
 
     String goal = "Become a great Software Engineer";
 
