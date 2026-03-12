@@ -8,8 +8,11 @@
 🚀 **Aspiring Software Developer**
 🧠 **Passionate about Data Structures & Algorithms**
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Java+Developer;DSA+Learner;Preparing+for+Software+Engineering+Internships;Always+Learning+New+Things" />
+</p> -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Java+Developer;DSA+Learner;_Preparing%20for%20Software%20Engineering%20Internships;Always%20Learning%20New%20Things" />
 </p>
 
 ---
