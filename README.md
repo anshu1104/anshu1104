@@ -82,9 +82,9 @@ public class Anshu {
 
 # 📈 LeetCode Stats
 
-<!-- <p align="center">
+ <p align="center">
 <img src="https://leetcard.jacoblin.cool/Anshu1104?theme=dark&font=Baloo&ext=contest"/>
-</p> -->
+</p> 
 
 ---
 
