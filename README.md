@@ -91,6 +91,9 @@ public class Anshu {
 # 📊 GitHub Stats#
 
 ![Anshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshu1104&show_icons=true&theme=radical)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshu1104&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu1104&layout=compact&theme=tokyonight" />
 
 ---
 
